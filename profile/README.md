@@ -8,7 +8,7 @@
 
 **Multi-Vertical Enterprise Group — Technology · Defence R&D · Real Estate · Angel Investment · Hospitality · Consultancy**
 
-[Website](https://vrip7.com) · [LinkedIn](https://linkedin.com/company/vrip7) · [Contact](mailto:contact@vrip7.com)
+[Website](https://vrip7.com) · [LinkedIn](https://linkedin.com/company/vrip7) · [Contact](mailto:support@vrip7.com)
 
 ---
 
@@ -52,27 +52,11 @@ Our IT infrastructure division (Preferred 7 Technologies) serves India's critica
 
 *And 10+ more PSUs including HPCL, Mahanadi Coalfields, Western Coalfields, Gujarat Electricity Board, NISER, state PWDs, and police departments.*
 
-## Open Source
+## Open Source & Software
 
-Our open-source work lives under [**Kanopus Development**](https://github.com/KanopusDev) — VRIP7's dedicated AI tooling organization. This org (`vrip7`) houses internal tools and enterprise projects.
+All of VRIP7's open-source projects and software tooling live under [**Kanopus Development**](https://github.com/KanopusDev) — our dedicated AI and developer infrastructure organization.
 
-### Repositories
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Castor**](https://github.com/KAnopusDev/Castor) | Enterprise authentication API with E2E encryption | Python |
-| [**MindWall**](https://github.com/KanopusDev/MindWall) | Self-hosted cybersecurity platform — detects psychological manipulation in communications using local LLMs | Python |
-| [**Leo**](https://github.com/KanopusDev/Leo) | Internal tooling | Python |
-
-## Tech Stack
-
-```
-Languages       Python · TypeScript · React
-Infra           FastAPI · Docker · PostgreSQL · Redis
-AI/ML           PyTorch · LangGraph · Qdrant · Local LLMs
-Security        Argon2id · AES-256-GCM · JWT (in-memory only)
-Package Mgmt    uv (Python) · pnpm (JS)
-```
+> **→ [Explore our projects on KanopusDev](https://github.com/KanopusDev)**
 
 ## Connect
 
@@ -80,8 +64,8 @@ Package Mgmt    uv (Python) · pnpm (JS)
 |---|---|
 | 🌐 Website | [vrip7.com](https://vrip7.com) |
 | 💼 LinkedIn | [company/vrip7](https://linkedin.com/company/vrip7) |
-| 📧 Email | [contact@vrip7.com](mailto:contact@vrip7.com) |
-| 🐦 X/Twitter | [@_vrip7](https://x.com/_vrip7) |
+| 📧 Email | [support@vrip7.com](mailto:support@vrip7.com) |
+| 🐦 X / Twitter | [@_vrip7](https://x.com/_vrip7) |
 | 📸 Instagram | [@_vrip7](https://instagram.com/_vrip7) |
 
 ---
