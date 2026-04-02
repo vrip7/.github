@@ -60,9 +60,9 @@ Our open-source work lives under [**Kanopus Development**](https://github.com/Ka
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Castor**](https://github.com/vrip7/Castor) | Enterprise authentication API with E2E encryption | Python |
-| [**MindWall**](https://github.com/vrip7/MindWall) | Self-hosted cybersecurity platform — detects psychological manipulation in communications using local LLMs | Python |
-| [**Leo**](https://github.com/vrip7/Leo) | Internal tooling | Python |
+| [**Castor**](https://github.com/KAnopusDev/Castor) | Enterprise authentication API with E2E encryption | Python |
+| [**MindWall**](https://github.com/KanopusDev/MindWall) | Self-hosted cybersecurity platform — detects psychological manipulation in communications using local LLMs | Python |
+| [**Leo**](https://github.com/KanopusDev/Leo) | Internal tooling | Python |
 
 ## Tech Stack
 
