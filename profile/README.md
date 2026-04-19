@@ -16,47 +16,39 @@
 
 ## About
 
-VRIP7 is an Indian enterprise group operating across six business verticals — built on three decades of delivering mission-critical IT infrastructure to India's most demanding institutions.
+VRIP7 is an Indian enterprise group operating across multiple business verticals from Ujjain, Madhya Pradesh.
 
-Formed through the consolidation of **Preferred 7 Technologies** (est. 1994), **Kanopus Development**, **VRIP7 Real Estate**, and **Tandon Technologies (Café La Ville)**, we operate at the intersection of sectors shaping India's next chapter.
+This GitHub organization represents the **group-level identity of VRIP7**.
 
-## Our Verticals
+It is **not** the primary home for our software repositories.
 
-| Vertical | Entity | Focus |
-|----------|--------|-------|
-| **IT Hardware & Software** | [Preferred 7 Technologies](https://preferred7.com) | GeM-registered supplier · Defence, Energy & Government IT · LG & Samsung authorized partner |
-| **Open-Source AI** | [Kanopus Development](https://github.com/KanopusDev) | AI tooling · Developer infrastructure · Open-source frameworks |
-| **Real Estate** | VRIP7 Real Estate | Commercial & residential development in central India |
-| **Hospitality** | [Café La Ville](https://cafelaville.com) | French-inspired café & bakery in Ujjain · 4.5★ Google |
-| **Angel Investment** | VRIP7 Capital | Early-stage funding for non-metro Indian founders |
-| **Defence R&D** | VRIP7 Research | Hardware & defence technology research |
+## Looking for Software?
 
-## Government & PSU Clients
+All active software development, open-source work, internal tooling, and future repositories are being published under:
 
-Our IT infrastructure division (Preferred 7 Technologies) serves India's critical public sector:
+## → [Kanopus Development](https://github.com/KanopusDev)
 
-<table>
-<tr>
-<td align="center"><strong>ISRO</strong><br/><sub>U R Rao Satellite Centre</sub></td>
-<td align="center"><strong>BARC</strong><br/><sub>Dept. of Atomic Energy</sub></td>
-<td align="center"><strong>Indian Coast Guard</strong><br/><sub>Dept. of Defence</sub></td>
-<td align="center"><strong>ONGC</strong><br/><sub>Oil & Natural Gas Corp</sub></td>
-</tr>
-<tr>
-<td align="center"><strong>Indian Oil</strong><br/><sub>Paradip Refinery</sub></td>
-<td align="center"><strong>BPCL</strong><br/><sub>Bharat Petroleum</sub></td>
-<td align="center"><strong>Indian Railways</strong><br/><sub>WCR · SCR · RVNL</sub></td>
-<td align="center"><strong>Power Grid Corp</strong><br/><sub>Eastern Region</sub></td>
-</tr>
-</table>
+If you are here to explore our engineering work, products, code, or developer tooling, please go to **KanopusDev**.
 
-*And 10+ more PSUs including HPCL, Mahanadi Coalfields, Western Coalfields, Gujarat Electricity Board, NISER, state PWDs, and police departments.*
+## What VRIP7 Represents
 
-## Open Source & Software
+VRIP7 is the umbrella group behind operations across areas such as:
 
-All of VRIP7's open-source projects and software tooling live under [**Kanopus Development**](https://github.com/KanopusDev) — our dedicated AI and developer infrastructure organization.
+- technology
+- defence R&D
+- real estate
+- hospitality
+- angel investment
+- consultancy
 
-> **→ [Explore our projects on KanopusDev](https://github.com/KanopusDev)**
+This organization exists to represent the **parent group**, while **Kanopus Development** serves as the dedicated software and engineering identity.
+
+## Structure
+
+| Organization | Role |
+|---|---|
+| [**VRIP7**](https://github.com/vrip7) | Parent group identity |
+| [**KanopusDev**](https://github.com/KanopusDev) | Software, engineering, and open-source work |
 
 ## Connect
 
@@ -71,5 +63,9 @@ All of VRIP7's open-source projects and software tooling live under [**Kanopus D
 ---
 
 <div align="center">
-<sub>Headquartered in Ujjain, Madhya Pradesh — the ancient city of knowledge.<br/>Proof that transformational companies don't need metros. They need conviction.</sub>
+
+**For software and code repositories, visit [Kanopus Development](https://github.com/KanopusDev).**
+
+<sub>VRIP7 is the parent group. Kanopus is where the software lives.</sub>
+
 </div>
